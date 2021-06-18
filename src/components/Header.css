@@ -1,0 +1,19 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Header .add_btn {
+    align-items: center;
+}
+
+.Header .add_btn a {
+    font-weight: 600;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: white;
+}

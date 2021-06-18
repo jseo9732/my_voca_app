@@ -1,0 +1,8 @@
+.CreateDay {
+    width: fit-content;
+    margin: 20px auto;
+}
+
+.CreateDay button {
+    margin: 0 20px;
+}

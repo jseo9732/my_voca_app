@@ -1,0 +1,21 @@
+td {
+    width: 25%;
+    height: 70px;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 26px;
+}
+
+td:first-child {
+    width: 10%;
+}
+
+ .off td {
+    background: #eee;
+  color: #ccc;
+}
+
+.del_btn {
+    margin-left: 10px;
+    background-color: firebrick;
+}

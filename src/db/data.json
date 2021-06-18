@@ -1,0 +1,54 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "arrival",
+      "kor": "도착",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "attraction",
+      "kor": "명소, 매력",
+      "isDone": false
+    },
+    {
+      "id": 41,
+      "day": 2,
+      "eng": "accommodations",
+      "kor": "숙박 시설",
+      "isDone": true
+    },
+    {
+      "id": 81,
+      "day": 3,
+      "eng": "acceleration",
+      "kor": "가속(도)",
+      "isDone": false
+    }
+  ]
+}

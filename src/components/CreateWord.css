@@ -1,0 +1,32 @@
+.CreateWord {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.input_area {
+    margin-bottom: 10px;
+}
+
+.input_area label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input_area select {
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+.input_area input {
+    width: 376px;
+    height: 40px;
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+.CreateWord button {
+    margin-top: 20px;
+    width: 400px;
+}

@@ -1,0 +1,20 @@
+.DayList {
+    display: flex;
+    flex-wrap: wrap;   
+}
+
+.DayList li {
+    flex: 20% 0 0;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.DayList li a {
+    display: block;
+    padding: 20px 0;
+    border-radius: 10px;
+    background-color: #2e6b23;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+} 

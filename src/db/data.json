@@ -19,6 +19,10 @@
     {
       "day": 5,
       "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
     }
   ],
   "words": [
@@ -27,7 +31,7 @@
       "day": 1,
       "eng": "arrival",
       "kor": "도착",
-      "isDone": true
+      "isDone": false
     },
     {
       "id": 2,
@@ -41,7 +45,7 @@
       "day": 2,
       "eng": "accommodations",
       "kor": "숙박 시설",
-      "isDone": true
+      "isDone": false
     },
     {
       "id": 81,

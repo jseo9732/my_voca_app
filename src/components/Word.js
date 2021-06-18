@@ -54,7 +54,7 @@ function Word({ word: w }) {
             <td>{word.eng}</td>
             <td>{isShow && word.kor}</td>
             <td>
-                <button onClick={toggleShow}>
+                <button onClick={toggleShow} className="show_btn">
                     뜻 {isShow ? "숨기기" : "보기"}
                 </button>
                 <button onClick={toggleDel} className="del_btn">삭제</button>

@@ -30,3 +30,22 @@
     margin-top: 20px;
     width: 400px;
 }
+
+@media screen and (max-width: 800px) {
+    .CreateWord {
+        width: 90%;
+        margin-top: 150px;
+    }
+    
+    .input_area select {
+        width: 95%;
+    }
+    
+    .input_area input {
+        width: 90%;
+    }
+    
+    .CreateWord button {
+        width: 95%;
+    }
+}

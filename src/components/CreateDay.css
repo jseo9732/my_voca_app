@@ -6,3 +6,10 @@
 .CreateDay button {
     margin: 0 20px;
 }
+
+@media screen and (max-width: 800px) {
+    .CreateDay {
+        margin-top: 250px;
+    }
+    
+}
